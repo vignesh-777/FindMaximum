@@ -58,13 +58,13 @@ def max_marks(list1):
 
 ```
 ## Sample Input and Output
-
-
+![](3a-q1.png)
+![](3q-2.png)
+![](3q-3.png)
+## Output:
 ![output](./3a-1.png) 
 ![output](./3a-2.png) 
 ![output](./3a-3.png) 
-
-## Output:
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
